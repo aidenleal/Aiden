@@ -1,8 +1,8 @@
 # Mini proyecto
 
-Pequeña página web creada como práctica de Git y GitHub.
+Pequena pagina web creada como practica de Git y GitHub.
 
 ## Contenido
 
-- index.html: página principal
-- estilos.css: estilos de la página
+- index.html: pagina principal
+- estilos.css: estilos de la pagina
