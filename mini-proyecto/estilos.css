@@ -1,1 +1,6 @@
-/* estilos del mini proyecto */
+body {
+  font-family: Arial;
+}
+h1 {
+  text-align: center;
+}
